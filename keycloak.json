@@ -1,0 +1,10 @@
+{
+  "realm": "master",
+  "auth-server-url": "http://localhost:9080/auth/",
+  "ssl-required": "external",
+  "resource": "vertx-account",
+  "credentials": {
+    "secret": "966951a0-b4b8-4298-af67-b602d5082dbe"
+  },
+  "confidential-port": 0
+}
